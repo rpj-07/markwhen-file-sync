@@ -6,8 +6,9 @@ Synchronize Properties from your Obsidian notes with [Markwhen](https://github.c
 
 ---
 ### Bugs
-Currently there exists a [Bug](https://github.com/rpj-07/markwhen-file-sync/issues/2) with the date format from the Markwhen-Timeline, so in the past this was "YYYY-MM-DD", but currently there are sometimes different formats.
-I'll fix it as soon as possible
+*Currently there exists a [Bug](https://github.com/rpj-07/markwhen-file-sync/issues/2) with the date format from the Markwhen-Timeline, so in the past this was "YYYY-MM-DD", but currently there are sometimes different formats.
+I'll fix it as soon as possible*
+
 ---
 ## Features
 - Bidirectional synchronization
